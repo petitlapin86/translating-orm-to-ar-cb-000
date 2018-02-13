@@ -1,5 +1,5 @@
 
-ActiveRecord::Base
 
-class Dog
+class Dog < ActiveRecord::Base
+
 end
